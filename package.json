@@ -40,5 +40,13 @@
     "@storybook/addons": "^5.3.18",
     "@storybook/preset-create-react-app": "^2.1.1",
     "@storybook/react": "^5.3.18"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/introduction-to-storybook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/introduction-to-storybook/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/introduction-to-storybook#readme"
 }
